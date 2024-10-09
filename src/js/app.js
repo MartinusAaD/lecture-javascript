@@ -12,9 +12,9 @@ console.log(weekDay);
 
 
 
-let country = "Norway";
+let countryy = "Norway";
 let studentNumber = 12345;
-let studentstatus = false;
+let studentStatus = false;
 let grade;
 let classRoom = null;
 let fruitList = ["Watermelon", "Apple", "Orange"]
@@ -28,7 +28,7 @@ function add(){
     return 1 + 1;
 }
 
-console.log(typeof country);
+console.log(typeof countryy);
 console.log(typeof studentNumber);
 console.log(typeof studentStatus);
 console.log(typeof grade);
